@@ -1,0 +1,13 @@
+item replace entity @s container.9 with yellow_stained_glass_pane[hide_tooltip={},custom_data={"6si":{locked_slot:true}}]
+item replace entity @s container.11 with yellow_stained_glass_pane[hide_tooltip={},custom_data={"6si":{locked_slot:true}}]
+item replace entity @s container.12 with yellow_stained_glass_pane[hide_tooltip={},custom_data={"6si":{locked_slot:true}}]
+item replace entity @s container.13 with yellow_stained_glass_pane[hide_tooltip={},custom_data={"6si":{locked_slot:true}}]
+item replace entity @s container.14 with yellow_stained_glass_pane[hide_tooltip={},custom_data={"6si":{locked_slot:true}}]
+item replace entity @s container.15 with yellow_stained_glass_pane[hide_tooltip={},custom_data={"6si":{locked_slot:true}}]
+
+item replace entity @s container.27 with yellow_stained_glass_pane[hide_tooltip={},custom_data={"6si":{locked_slot:true}}]
+item replace entity @s container.29 with yellow_stained_glass_pane[hide_tooltip={},custom_data={"6si":{locked_slot:true}}]
+item replace entity @s container.30 with yellow_stained_glass_pane[hide_tooltip={},custom_data={"6si":{locked_slot:true}}]
+item replace entity @s container.31 with yellow_stained_glass_pane[hide_tooltip={},custom_data={"6si":{locked_slot:true}}]
+item replace entity @s container.32 with yellow_stained_glass_pane[hide_tooltip={},custom_data={"6si":{locked_slot:true}}]
+item replace entity @s container.33 with yellow_stained_glass_pane[hide_tooltip={},custom_data={"6si":{locked_slot:true}}]

@@ -1,0 +1,6 @@
+$item replace entity @s container.27 with wooden_hoe[hide_tooltip={},custom_model_data={floats:[$(EQUIPPED)]},custom_data={"6si":{"item":false,"locked_slot":false,is_button:true,"button_ID":$(EQUIPPED)}}]
+$item replace entity @s container.29 with wooden_hoe[hide_tooltip={},custom_model_data={floats:[$(SLOT_0)]},custom_data={"6si":{"item":false,"locked_slot":false,is_button:true,"button_ID":$(SLOT_0)}}]
+$item replace entity @s container.30 with wooden_hoe[hide_tooltip={},custom_model_data={floats:[$(SLOT_1)]},custom_data={"6si":{"item":false,"locked_slot":false,is_button:true,"button_ID":$(SLOT_1)}}]
+$item replace entity @s container.31 with wooden_hoe[hide_tooltip={},custom_model_data={floats:[$(SLOT_2)]},custom_data={"6si":{"item":false,"locked_slot":false,is_button:true,"button_ID":$(SLOT_2)}}]
+$item replace entity @s container.32 with wooden_hoe[hide_tooltip={},custom_model_data={floats:[$(SLOT_3)]},custom_data={"6si":{"item":false,"locked_slot":false,is_button:true,"button_ID":$(SLOT_3)}}]
+$item replace entity @s container.33 with wooden_hoe[hide_tooltip={},custom_model_data={floats:[$(SLOT_4)]},custom_data={"6si":{"item":false,"locked_slot":false,is_button:true,"button_ID":$(SLOT_4)}}]
